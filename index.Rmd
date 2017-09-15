@@ -1,0 +1,81 @@
+---
+title:  Impact Evaluation / Research Design 
+subtitle: 'University of Mannheim, Fall 2017'
+---
+
+***
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 14px;
+      color: Black;
+      line-height: 1.7;
+       font-family: Georgia;
+       word-spacing: 5px;
+  }
+td {  /* Table  */
+  font-size: 12px;
+}
+h1.title {
+  font-size: 38px;
+  color: DarkRed;
+}
+
+
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: DarkGray;
+}
+h2 { /* Header 2 */
+    font-size: 22px;
+    color: DarkBlue;
+}
+h3 { /* Header 3 */
+  font-size: 26px;
+  color: Black;
+}
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 14px;
+}  
+
+a {    color: Blue;
+    
+}
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: White;
+    background-color: Maroon;
+    border-color: #337ab7;
+}
+    
+    
+
+</style>
+
+
+
+#Course Overview
+Welcome to "E5040 - Impact Evaluation" or "Research Design"! In this course we will cover impact evaluation methods as well as models for survey methodology. Topics will include counterfactual outcomes, heterogeneous treatment effects, (propensity) score matching, differences in differences, instrumental variables designs, randomized control trials, regression discontinuity design and various methods for collecting primary data. 
+
+#Instructors
+
+* [Professor Markus Frölich ](http://froelich.vwl.uni-mannheim.de/1299.0.html)
+
+* [Professor Frauke Kreuter](http://sswml.uni-mannheim.de/Team/Frauke%20Kreuter/)
+
+#Class timings / rooms
+
+|                  | Day      | Time          | Room | Building   |
+|------------------|----------|---------------|------|------------|
+| Lecture Class    | Thursday | 13:45 - 15:15 | A101 | B6, 23- 25 |
+| Tutorial Session | Thursday | 15:30 - 17:00 | A101 | B6, 23- 25 |
+|                  |          |               |      |            |
+
+#Course Plan
+
+
